@@ -140,9 +140,9 @@ REST_FRAMEWORK = {
 
 # Cloudinary configuration for media storage
 CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': 'your_cloud_name',  # Cloudinary cloud name
-    'API_KEY': 'your_api_key',  # Cloudinary API key
-    'API_SECRET': 'your_api_secret',  # Cloudinary API secret
+    'CLOUD_NAME': 'dgne2myem',  # Cloudinary cloud name
+    'API_KEY': '166844799287979',  # Cloudinary API key
+    'API_SECRET': '-3R4h6dpoWPgVdgd_nWGm1tjIhs',  # Cloudinary API secret
 }
 DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'  # Use Cloudinary for media files
 
